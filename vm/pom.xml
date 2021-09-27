@@ -11,10 +11,8 @@
 
     <artifactId>vm</artifactId>
 
-    <name>Javamm project</name>
-    <description>Compiler, interpreter, standard library, virtual machine, console launcher
-        and simple IDE for javamm programming language
-    </description>
+    <name>Javapromm virtual machine</name>
+    <description>Default VM for javapromm programming language</description>
 
     <dependencies>
         <dependency>

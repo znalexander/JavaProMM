@@ -11,10 +11,8 @@
 
     <artifactId>ide</artifactId>
 
-    <name>Javamm project</name>
-    <description>Compiler, interpreter, standard library, virtual machine, console launcher
-        and simple IDE for javamm programming language
-    </description>
+    <name>Javapromm IDE</name>
+    <description>Simple GUI IDE for javapromm programming language</description>
 
     <dependencies>
         <dependency>

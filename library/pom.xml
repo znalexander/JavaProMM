@@ -11,9 +11,9 @@
 
     <artifactId>library</artifactId>
 
-    <name>Javamm project</name>
-    <description>Compiler, interpreter, standard library, virtual machine, console launcher
-        and simple IDE for javamm programming language
+    <name>Javapromm std lib</name>
+    <description>
+        Standard library with core, math and string function modules for javapromm programming language
     </description>
 
     <dependencies>

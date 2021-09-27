@@ -11,8 +11,6 @@
 
     <artifactId>temp</artifactId>
 
-    <name>Javamm project</name>
-    <description>Compiler, interpreter, standard library, virtual machine, console launcher
-        and simple IDE for javamm programming language
-    </description>
+    <name>Javapromm temp</name>
+    <description>TEMP</description>
 </project>

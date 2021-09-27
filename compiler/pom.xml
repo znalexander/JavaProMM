@@ -11,10 +11,8 @@
 
     <artifactId>compiler</artifactId>
 
-    <name>Javamm project</name>
-    <description>Compiler, interpreter, standard library, virtual machine, console launcher
-        and simple IDE for javamm programming language
-    </description>
+    <name>Javapromm compiler</name>
+    <description>Default compiler for javapromm programming language</description>
 
     <dependencies>
         <dependency>
